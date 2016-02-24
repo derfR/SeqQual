@@ -34,9 +34,8 @@ Brousseau L, Tinaut A, Duret C, Lang T, Garnier-Gere P, Scotti I (2014) High-thr
 
 Contacts
 Please send feedback or ask for assistance to: 
-Pauline Garnier-Géré (pauline.garnier-gere@pierroton.inra.fr)
-Tiange Lang (langtiange@xtbg.org.cn)
-
+<A HREF="mailto:pauline.garnier-gere@pierroton.inra.fr"> Pauline Garnier-Géré</A>
+<A HREF="mailto:langtiange@xtbg.org.cn"> Tiange Lang</A>
 
 Links
 Arlequin http://cmpg.unibe.ch/software/arlequin35/
