@@ -11,7 +11,7 @@ Programs in SeqQual mainly perform 3 groups of tasks (see HELP documents):
 
 SeqQual can be useful for :
 <b>Ab1/Abd Chromatogram sequence data</b> from ABI sequencers for which very little automatic tools are available. It typically reduces the time spent to validate sequence data by a factor of 50 to 100. Input files are individual diploid/haploid *.ab1/*.abd and *.phd files, alignment are performed
-<b>Medium throughput sequence data</>b> projects (such as Genotype-by-Sequencing projects or NGS data from 454 or Illumina systems) and can be useful for 1 to a few tens of thousands alignments (max size tested: ~15 kb). Input files are *.ace assembly files with or without *.qual files 
+<b>Medium throughput sequence data</b> projects (such as Genotype-by-Sequencing projects or NGS data from 454 or Illumina systems) and can be useful for 1 to a few tens of thousands alignments (max size tested: ~15 kb). Input files are *.ace assembly files with or without *.qual files 
 Reasonable amounts of <b>fasta alignment files</b> (e.g. < 50000 of ~1 kb average size) from low to high throughput sequencing projects or resulting from other programs that need further post-processing/analyses
 
 HELP documents 
