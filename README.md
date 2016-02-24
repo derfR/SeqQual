@@ -6,7 +6,7 @@ Different tasks can be performed in batch across contigs including: data validat
 
 Programs in SeqQual mainly perform 3 groups of tasks (see HELP documents):
 1)  Processing of *.ab1/*.abd/*.scf/*.phd/*.poly/*.ace/*.phd-like/*.fasta files by masking nucleotides below a user-defined quality threshold and identifying heterozygotes in diploid data. Output files are fasta alignments.
-2)  Filtering/masking steps/formatting data. Output files are fasta alignments or Arlequin or DNAsp formatted data files…
+2)  Filtering/masking steps/formatting data. Output files are fasta alignments or  <A HREF="http://cmpg.unibe.ch/software/arlequin35/">Arlequin</A> or DNAsp formatted data files…
 3)  Computing summary statistics across SNPs (for diploid or haploid data)
 
 SeqQual can be useful for :
