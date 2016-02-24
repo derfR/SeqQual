@@ -35,14 +35,5 @@ Brousseau L, Tinaut A, Duret C, Lang T, Garnier-Gere P, Scotti I (2014) High-thr
 
 Contacts
 Please send feedback or ask for assistance to: 
-<A HREF="mailto:pauline.garnier-gere@pierroton.inra.fr"> Pauline Garnier-Géré</A>
+<A HREF="mailto:pauline.garnier-gere@pierroton.inra.fr"> Pauline Garnier-Géré</A>, 
 <A HREF="mailto:langtiange@xtbg.org.cn"> Tiange Lang</A>
-
-Links
-Arlequin http://cmpg.unibe.ch/software/arlequin35/
-DNAsp http://www.ub.edu/dnasp/
-Bioperl http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix
-Phred/Phrap http://www.phrap.org/consed/consed.html#howToGet
-PolyPhred http://droog.gs.washington.edu/polyphred/
-Paper MER http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12276/full
-Paper BMC genomics http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-238
