@@ -4,7 +4,7 @@ SeqQual is a suite of <b>Perl/Bioperl scripts</b> for bioinformatic analyses wit
 
 Different tasks can be performed in batch across contigs including: data validation integrating quality scores, data filtering in different steps, production of fasta alignment files, post-processing of fasta alignments for further statistical analyses( Graphical overview).
 
-Programs in SeqQual mainly perform 3 groups of tasks (see HELP documents):
+Programs in SeqQual mainly perform 3 groups of tasks (see <a href="#help_documents">HELP documents</a> ):
 1)  Processing of *.ab1/*.abd/*.scf/*.phd/*.poly/*.ace/*.phd-like/*.fasta files by masking nucleotides below a user-defined quality threshold and identifying heterozygotes in diploid data. Output files are fasta alignments.
 2)  Filtering/masking steps/formatting data. Output files are fasta alignments or  <A HREF="http://cmpg.unibe.ch/software/arlequin35/">Arlequin</A> or <A HREF="http://www.ub.edu/dnasp/">DNAsp</A>  formatted data files…
 3)  Computing summary statistics across SNPs (for diploid or haploid data)
@@ -14,7 +14,7 @@ SeqQual can be useful for :
 <b>Medium throughput sequence data</b> projects (such as Genotype-by-Sequencing projects or NGS data from 454 or Illumina systems) and can be useful for 1 to a few tens of thousands alignments (max size tested: ~15 kb). Input files are *.ace assembly files with or without *.qual files 
 Reasonable amounts of <b>fasta alignment files</b> (e.g. < 50000 of ~1 kb average size) from low to high throughput sequencing projects or resulting from other programs that need further post-processing/analyses
 
-HELP documents 
+<h2 id="help_documents">HELP documents</h2>
 Details for installing and using the scripts can be found here. For tasks 1) above, the softwares  <A HREF="http://www.phrap.org/consed/consed.html#howToGet">Phred/Phrap</A>  softwares are required and easy to obtain by following instructions on their websites. The  <A HREF="http://droog.gs.washington.edu/polyphred/">PolyPhred</A> software is only needed if you deal with Chromatogram abd/ab1 files from diploid DNA. The Perl language and <A HREF="hhttp://www.bioperl.org/wiki/Installing_BioPerl_on_Unix">BioPerl</A> modules are needed to run all scripts. 
 
 Examples of Linux <b>Shell command files</b> are given here to help organize the scripts into user-defined pipelines.
