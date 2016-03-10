@@ -21,9 +21,9 @@ Examples of Linux <b>Shell command files</b> are given here to help organize the
 
 A <b>summary description</b> of each script can be found here.
 
-Download page
+<h2>Download page</h2>
 
-References
+<h2>References</h2>
 
 Application to ab1/abd sequence data files and fasta alignments post-processing and analyzing:
 Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Tani N, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P. High quality SNP development … in European White oak pecies”. (in preparation)
@@ -34,7 +34,7 @@ El Mujtar VA, Gallo LA, Lang T, Garnier‐Géré P (2014) Development of genomic
 Brousseau L, Tinaut A, Duret C, Lang T, Garnier-Gere P, Scotti I (2014) High-throughput transcriptome sequencing and preliminary functional analysis in four Neotropical tree species. BMC genomics 15 (1): 238. <A HREF="http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-238">(Link to journal site)</A>
 
 
-Contacts
+<h2>Contacts</h2>
 Please send feedback or ask for assistance to: 
 <A HREF="mailto:pauline.garnier-gere@pierroton.inra.fr"> Pauline Garnier-Géré</A>, 
 <A HREF="mailto:langtiange@xtbg.org.cn"> Tiange Lang</A>
