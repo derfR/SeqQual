@@ -14,11 +14,11 @@ SeqQual is divided into 3 groups of scripts depending on the input files(see the
 <h2 id="help_documents">HELP documents</h2>
 Details for installing and using the scripts can be found in the main <b>User Documentation</b>. The Perl language and <A HREF="http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix">BioPerl</A> modules are needed to run all the scripts for <b>tasks 1), 2)</b> and <b>3)</b> above. Additionnally, please note that for <b>tasks 1)</b>, the <A HREF="http://www.phrap.org/consed/consed.html#howToGet">phred/phrap/consed </A> software suite are required and easy to obtain by following the authors’ instructions. The <A HREF="http://droog.gs.washington.edu/polyphred/">polyphred</A>  software is only needed if you deal with Chromatogram abd/ab1 files from diploid DNA. 
 
-<b>Details</b> for each script can be found <A HREF= "SeqQual_pdf/SeqQual-tasks1-draft.pdf"> here</A> for <b>tasks 1),</b>  <A HREF= "SeqQual_pdf/SeqQual-tasks2-draft.pdf"> here</A> for <b>tasks 2),</b>  <A HREF= "SeqQual_pdf/SeqQual-tasks3-draft.pdf"> here</A> for <b>tasks 3)</b>. For several scripts, log files can be printed from print_log*.pl scripts described here.
+<b>Details</b> for each script can be found <A HREF= "SeqQual_pdf/SeqQual-tasks1-draft.pdf"> here</A> for <b>tasks 1),</b>  <A HREF= "SeqQual_pdf/SeqQual-Tasks2-draft.pdf"> here</A> for <b>tasks 2),</b>  <A HREF= "SeqQual_pdf/SeqQual-tasks3-draft.pdf"> here</A> for <b>tasks 3)</b>. For several scripts, log files can be printed from print_log*.pl scripts described here.
 
-<b>Examples</b> of Linux <b>Shell command files</b> are given to help organize the scripts into user-defined pipelines.
+<b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are given to help organize the scripts into user-defined pipelines.
 
-<h2>Download page of SeqQual (all the scripts)</h2>
+<h2><A HREF="Source-Donwload" > Download page</A> of SeqQual (all the scripts)</h2>
 
 <h2>References</h2>
 Application to ab1/abd sequence data files and fasta alignments post-processing and analyzing:
