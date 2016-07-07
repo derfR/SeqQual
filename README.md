@@ -18,7 +18,7 @@ Details for installing and using the scripts can be found in the main <b>User Do
 
 <b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are given to help organize the scripts into user-defined pipelines.
 
-<h2><A HREF="Source-Donwload" > Download page</A> of SeqQual (all the scripts)</h2>
+<h2><A HREF="Source-download" > Download page</A> of SeqQual (all the scripts)</h2>
 
 <h2>References</h2>
 Application to ab1/abd sequence data files and fasta alignments post-processing and analyzing:
