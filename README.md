@@ -2,7 +2,7 @@
 SeqQual
 SeqQual is a suite of <b>Perl/Bioperl scripts</b> for bioinformatic analyses with the general aim of <b>integrating quality</b> at the nucleotide level and <b>prepare fasta alignment files</b> for further population genetic analyses. It also includes many scripts for post-processing batches of fasta alignment files and compute some summary statistics.
 
-SeqQual is divided into 3 groups of scripts depending on the input files(see the <A HREF= "SeqQual_pdf/Graphical-SeqQual-Overview.pdf"> Graphical-overview</A> and <a href="#help_documents">HELP documents</a> ):
+SeqQual is divided into 3 groups of scripts depending on input files and tasks (see the <A HREF= "SeqQual_pdf/Graphical-SeqQual-Overview.pdf"> Graphical-overview</A> and <a href="#help_documents">HELP documents</a> ):
 
 <b>1) Ab1/Abd Chromatogram sequence data</b> from ABI sequencers for which very few automatic tools are available. Scripts help to validate sequence data by typically reducing the necessary time by a factor of 50 to 100. Input files are individual diploid or haploid *.ab1/*.abd/*.scf sequence files, with or without corresponding *.poly or *.phd files. The main tasks consist in aligning sequences, and masking nucleotides below a user-defined quality threshold while identifying heterozygotes in diploid data. Output files are fasta alignments.
 <br />
@@ -14,11 +14,11 @@ SeqQual is divided into 3 groups of scripts depending on the input files(see the
 <h2 id="help_documents">HELP documents</h2>
 Details for installing and using the scripts can be found in the main <A HREF= "SeqQual_pdf/"> User Documentation</A>. The Perl language and <A HREF="http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix">BioPerl</A> modules are needed to run all the scripts for <b>tasks 1), 2)</b> and <b>3)</b> above. Additionnally, please note that for <b>tasks 1)</b>, the <A HREF="http://www.phrap.org/consed/consed.html#howToGet">phred/phrap/consed </A> software suite are required and easy to obtain by following the authors’ instructions. The <A HREF="http://droog.gs.washington.edu/polyphred/">polyphred</A>  software is only needed if you deal with Chromatogram abd/ab1 files from diploid DNA. 
 
-<b>Details</b> for each script can be found <A HREF= "SeqQual_pdf/SeqQual-tasks1-draft.pdf"> here</A> for <b>tasks 1),</b>  <A HREF= "SeqQual_pdf/SeqQual-Tasks2-draft.pdf"> here</A> for <b>tasks 2),</b>  <A HREF= "SeqQual_pdf/SeqQual-tasks3-draft.pdf"> here</A> for <b>tasks 3)</b>. For several scripts, log files can be printed from print_log*.pl scripts described here.
+<b>Details</b> for each script can be found <A HREF= "SeqQual_pdf/"> here</A> for <b>tasks 1),</b>  <A HREF= "SeqQual_pdf/SeqQual-Tasks2-draft.pdf"> here</A> for <b>tasks 2),</b>  <A HREF= "SeqQual_pdf/SeqQual-tasks3-draft.pdf"> here</A> for <b>tasks 3)</b>. For several scripts, log files can be printed from print_log*.pl scripts described <A HREF= "SeqQual_pdf/SeqQual-tasks3-draft.pdf"> here</A>.
 
 <b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are given to help organize the scripts into user-defined pipelines.
 
-<h2><A HREF="Source-download" >Download page</A> of SeqQual (all the scripts)</h2>
+<h2><A HREF="Source-download" >Download page</A> of SeqQual (all scripts)</h2>
 
 <h2>References</h2>
 Application to ab1/abd sequence data files and fasta alignments post-processing and analyzing:
@@ -35,7 +35,8 @@ Please send feedback or ask for assistance to:
 <A HREF="mailto:pauline.garnier-gere@pierroton.inra.fr"> Pauline Garnier-Géré</A>, 
 <A HREF="mailto:langtiange@xtbg.org.cn"> Tiange Lang</A>
 <!--<h2>Links</h2> -->
-<A HREF="http://cmpg.unibe.ch/software/arlequin35/" Arlequin </A>
+Links
+<A HREF="http://cmpg.unibe.ch/software/arlequin35/" Arlequin </A> http://cmpg.unibe.ch/software/arlequin35/
 <A HREF="http://www.ub.edu/dnasp/" DNAsp </A>
 <A HREF="http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix" Bioperl </A>
 <A HREF="http://www.phrap.org/consed/consed.html#howToGet" phred/phrap/consed </A>
