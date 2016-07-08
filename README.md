@@ -35,9 +35,9 @@ Please send feedback or ask for assistance to:
 <A HREF="mailto:pauline.garnier-gere@pierroton.inra.fr"> Pauline Garnier-Géré</A>, 
 <A HREF="mailto:langtiange@xtbg.org.cn"> Tiange Lang</A>
 <!--<h2>Links</h2> -->
-Links
-<A HREF="http://cmpg.unibe.ch/software/arlequin35/" Arlequin </A> http://cmpg.unibe.ch/software/arlequin35/
-<A HREF="http://www.ub.edu/dnasp/" DNAsp </A>
-<A HREF="http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix" Bioperl </A>
-<A HREF="http://www.phrap.org/consed/consed.html#howToGet" phred/phrap/consed </A>
-<A HREF="http://droog.gs.washington.edu/polyphred/" polyphred</A>
+<h2>Links</h2>
+<A HREF="http://cmpg.unibe.ch/software/arlequin35/" Arlequin </A> Arlequin   http://cmpg.unibe.ch/software/arlequin35/ <br />
+<A HREF="http://www.ub.edu/dnasp/" DNAsp </A>  DNAsp   http://www.ub.edu/dnasp/ <br />
+<A HREF="http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix" Bioperl </A> Bioperl   http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix <br />
+<A HREF="http://www.phrap.org/consed/consed.html#howToGet" phred/phrap/consed </A> phred/phrap/consed http://www.phrap.org/consed/consed.html#howToGet <br />
+<A HREF="http://droog.gs.washington.edu/polyphred/" polyphred</A> polyphred  http://droog.gs.washington.edu/polyphred/ <br />
