@@ -37,8 +37,8 @@ Please send feedback or ask for assistance to:
 
 <!--<h2>Links</h2> -->
 <h2>Links</h2>
-Arlequin   <A HREF="http://cmpg.unibe.ch/software/arlequin35/" Arlequin </A> http://cmpg.unibe.ch/software/arlequin35/ 
-DNAsp   <A HREF="http://www.ub.edu/dnasp/" DNAsp </A> http://www.ub.edu/dnasp/ 
-Bioperl    <A HREF="http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix" Bioperl </A> http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix
-phred/phrap/consed<A HREF="http://www.phrap.org/consed/consed.html#howToGet" phred/phrap/consed </A>  http://www.phrap.org/consed/consed.html#howToGet 
-polyphred  <A HREF="http://droog.gs.washington.edu/polyphred/" polyphred</A>  http://droog.gs.washington.edu/polyphred/ 
+Arlequin   <A HREF="http://cmpg.unibe.ch/software/arlequin35/" Arlequin </A> http://cmpg.unibe.ch/software/arlequin35/ <br />
+DNAsp   <A HREF="http://www.ub.edu/dnasp/" DNAsp </A> http://www.ub.edu/dnasp/ <br />
+Bioperl    <A HREF="http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix" Bioperl </A> http://www.bioperl.org/wiki/Installing_BioPerl_on_Unix <br />
+phred/phrap/consed<A HREF="http://www.phrap.org/consed/consed.html#howToGet" phred/phrap/consed </A>  http://www.phrap.org/consed/consed.html#howToGet <br />
+polyphred  <A HREF="http://droog.gs.washington.edu/polyphred/" polyphred</A>  http://droog.gs.washington.edu/polyphred/ <br />
