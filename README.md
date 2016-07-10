@@ -21,10 +21,10 @@ Advices on installing and using the scripts can be found in the main <A HREF= "S
 <h2><A HREF="Source-download" >Download page</A> of SeqQual (all scripts)</h2>
 
 <h2>References</h2>
-Application to ab1/abd sequence data files and fasta alignments post-processing and analyzing:
+<i>Application to ab1/abd sequence data files and fasta alignments post-processing and analyzing:</i> <br />
 Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Tani N, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P. High quality SNP development … in European White oak pecies”. (in preparation)
 <br /><br />
-Examples of SeqQual applications to larger *.ace assembly and fasta alignment files: 
+<i>Examples of SeqQual applications to larger *.ace assembly and fasta alignment files:</i> <br />
 El Mujtar VA, Gallo LA, Lang T, Garnier‐Géré P (2014) Development of genomic resources for Nothofagus species using next‐generation sequencing data. Molecular Ecology Resources 14(6) : 1281–1295.
 <A HREF="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12276/abstract">(Link to journal site)</A>
 <br /><br />
