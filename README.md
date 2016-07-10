@@ -16,7 +16,7 @@ Advices on installing and using the scripts can be found in the main <A HREF= "S
 
 <b>Details</b> for each script can be found <A HREF= "SeqQual_pdf/"> here</A> for <b>tasks 1),</b>  <A HREF= "SeqQual_pdf/"> here</A> for <b>tasks 2),</b>  <A HREF= "SeqQual_pdf/"> here</A> for <b>tasks 3)</b>. For several scripts, log files can be printed from print_log*.pl scripts described <A HREF= "SeqQual_pdf/Print_log-draft.pdf"> here</A>.
 
-<b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are given with added comments to help organize the scripts into user-defined pipelines. For example, 1.0-diploid-ab1.sh and 1.1-fasta-diploid-data.sh have been used in Lang et al. (submitted) below. 
+<b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are given with added comments to help organize the scripts into user-defined pipelines. For example, 1.0-diploid-ab1.sh and 1.1-fasta-diploid-data.sh have been used in Lang et al. below. 
 
 <h2><A HREF="Source-download" >Download page</A> of SeqQual (all scripts)</h2>
 
