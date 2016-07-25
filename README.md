@@ -16,7 +16,7 @@ Advices on installing and using the scripts can be found in the main <A HREF= "S
 
 A description on each script and its usage can also be found <A HREF= "SeqQual_pdf/"> here</A> in 3 documents relating to parts <b>1),</b>  <b> 2),</b> or <b>3) (Fastools) </b>. For several scripts, log files can be printed from associated  "print_log*.pl" scripts described <A HREF= "SeqQual_pdf/"> here</A>.
 
-<b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are given with added comments to help organize the scripts into user-defined pipelines. For example, 1.0-diploid-ab1.sh and 1.1-fasta-diploid-data.sh have been used in Lang et al. below. 
+<b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are given with added comments to help organize the scripts into user-defined pipelines. For example, 1.0-diploid-ab1.sh and 1.1-fasta-diploid-data.sh have been used in Lang et al. below. Examples of input data and files are given for *.ab1 and *.ace (see <A HREF="Data_examples"> Data_examples </A>), with corresponding result output files (see Results-examples).
 
 <h2><A HREF="Source-download" >Download page</A> of SeqQual </h2>
 
