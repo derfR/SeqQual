@@ -1,1 +1,0 @@
-See the Results-examples folder for corresponding outputs using from shell file examples. 
