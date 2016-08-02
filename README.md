@@ -13,11 +13,13 @@ SeqQual is divided into 3 groups of scripts depending on input files and tasks (
 
 <h2 id="help_documents">HELP documents</h2>
 
-A description on each script and its usage can also be found <A HREF= "SeqQual_pdf/"> here</A> in 3 documents relating to part <b>1),</b>  <b> 2),</b> or <b>3) (Fastools) </b>. For several scripts, log files can be printed from associated  "print_log*.pl" scripts described <A HREF= "SeqQual_pdf/"> here</A>. Then all you need to get started is to download the zip that include the script(s) you are interested in (or all of them) on the download page below, and unzip them under your home directory. The scripts will be located by default under the ~/SeqQual folder, and *.sh files provide examples of command lines.
+A description on each script and its usage can also be found <A HREF= "SeqQual_pdf/"> here</A> in 3 documents relating to part <b>1),</b>  <b> 2),</b> or <b>3) (Fastools) </b>. For several scripts, log files can be printed from associated  "print_log*.pl" scripts described <A HREF= "SeqQual_pdf/"> here</A>. Then all you need to get started is to download the zip that include the script(s) you are interested in (or all of them) on the download page below, and unzip them under your home directory. The scripts will be located by default under the ~/SeqQual folder.
+
+<b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are given with added comments to help organize the scripts into user-defined pipelines. For example, 1.0-diploid-ab1.sh and 3.1-fasta-diploid-data.sh have been used in Lang et al. below. A few examples of input data are also provided for *.ab1, *.ace and *.fas files (see <A HREF="Data-examples"> Data-examples</A>) folder, with corresponding result output files (see <A HREF="Results-examples"> Results-examples</A> folder).and *.sh files provide examples of command lines.
 
 More advices on installing and using the scripts can be found in the <A HREF= "SeqQual_pdf/"> User-Documentation.pdf</A> file. The Perl language and <A HREF="http://bioperl.org/">BioPerl</A> modules are needed to run all scripts for the tasks performed for <b>1), 2)</b> and <b>3)</b> above. Additionnally, please note that for the scripts in <b>part-1)</b>, the <A HREF="http://www.phrap.org/consed/consed.html#howToGet">phred/phrap/consed </A> software suite are required and easy to obtain and install by following the authors’ instructions. The <A HREF="http://droog.gs.washington.edu/polyphred/">polyphred</A>  software is only needed if you deal with Chromatogram abd/ab1 files from diploid DNA. 
 
-<b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are given with added comments to help organize the scripts into user-defined pipelines. For example, 1.0-diploid-ab1.sh and 3.1-fasta-diploid-data.sh have been used in Lang et al. below. A few examples of input data are also provided for *.ab1, *.ace and *.fas files (see <A HREF="Data-examples"> Data-examples</A>) folder, with corresponding result output files (see <A HREF="Results-examples"> Results-examples</A> folder).
+
 
 <h2><A HREF="Source-download" >Download page</A> of SeqQual </h2>
 
