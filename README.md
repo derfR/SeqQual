@@ -13,7 +13,7 @@ SeqQual is divided into 3 groups of scripts depending on input files and tasks (
 
 <h2 id="help_documents">HELP documents</h2>
 
-A description on each script and its usage can be found <A HREF= "SeqQual_pdf/"> here</A> in 3 documents relating to part <b>1),</b>  <b> 2),</b> or <b>3) (Fastools) </b>. For several scripts, log files can be printed from associated  "print_log*.pl" scripts described <A HREF= "SeqQual_pdf/"> here</A>. Then all you need to get started is to download the zip that include the script(s) you are interested in (or all of them) on the download page below, and unzip them under your home directory. The scripts will be located by default under the ~/SeqQual folder.
+A description of each script and its usage can be found <A HREF= "SeqQual_pdf/"> here</A> in 3 documents relating to part <b>1),</b>  <b> 2),</b> or <b>3) (Fastools) </b>. For several scripts, log files can be printed from associated  "print_log*.pl" scripts described <A HREF= "SeqQual_pdf/"> here</A>. Then all you need to get started is to download the zip that include the script(s) you are interested in on the download page below, and unzip them under your home directory. The scripts will be located by default under the ~/SeqQual folder.
 
 <b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are also given with added comments to help organize the scripts into user-defined pipelines. For example, 1.0-diploid-ab1.sh and 3.1-fasta-diploid-data.sh have been used in Lang et al. below. A few examples of input data are also provided for *.ab1, *.ace and *.fas files (see <A HREF="Data-examples"> Data-examples</A>) folder, with corresponding result output files (see <A HREF="Results-examples"> Results-examples</A> folder).
 
@@ -35,7 +35,7 @@ Brousseau L, Tinaut A, Duret C, Lang T, Garnier-Gere P, Scotti I (2014) High-thr
 <br />
 <h2>Contacts</h2>
 Please send feedback or ask for assistance to: 
-<A HREF="mailto:pauline.garnier-gere@pierroton.inra.fr"> Pauline Garnier-Géré</A>, 
+<A HREF="mailto:pauline.garnier-gere@pierroton.inra.fr"> Pauline Garnier-Géré</A>, or 
 <A HREF="mailto:langtiange@xtbg.org.cn"> Tiange Lang</A>
 
 <!--<h2>Links</h2> -->
