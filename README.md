@@ -17,9 +17,9 @@ A description on each script and its usage can be found <A HREF= "SeqQual_pdf/">
 
 <b>Examples</b> of Linux <A HREF="SeqQual_shell_ex"> Shell command files</A> are also given with added comments to help organize the scripts into user-defined pipelines. For example, 1.0-diploid-ab1.sh and 3.1-fasta-diploid-data.sh have been used in Lang et al. below. A few examples of input data are also provided for *.ab1, *.ace and *.fas files (see <A HREF="Data-examples"> Data-examples</A>) folder, with corresponding result output files (see <A HREF="Results-examples"> Results-examples</A> folder).
 
-More advices on installing and using the scripts can be found in the <A HREF= "SeqQual_pdf/"> User-Documentation.pdf</A> file. The Perl language and <A HREF="http://bioperl.org/">BioPerl</A> modules are needed to run all scripts for the tasks performed for <b>1), 2)</b> and <b>3)</b> above. Additionnally, please note that for the scripts in <b>part-1)</b>, the <A HREF="http://www.phrap.org/consed/consed.html#howToGet">phred/phrap/consed </A> software suite are required and easy to obtain and install by following the authors’ instructions. The <A HREF="http://droog.gs.washington.edu/polyphred/">polyphred</A>  software is only needed if you deal with Chromatogram abd/ab1 files from diploid DNA. 
+The Perl language and <A HREF="http://bioperl.org/">BioPerl</A> modules are needed to run all scripts for the tasks performed for <b>1), 2)</b> and <b>3)</b> above. Additionnally, please note that for the scripts in <b>part-1)</b>, the <A HREF="http://www.phrap.org/consed/consed.html#howToGet">phred/phrap/consed </A> software suite are required and easy to obtain and install by following the authors’ instructions. The <A HREF="http://droog.gs.washington.edu/polyphred/">polyphred</A>  software is only needed if you deal with Chromatogram abd/ab1 files from diploid DNA. 
 
-
+More advices on installing and using the scripts can be found in the <A HREF= "SeqQual_pdf/"> User-Documentation.pdf</A> file. 
 
 <h2><A HREF="Source-download" >Download page</A> of SeqQual </h2>
 
