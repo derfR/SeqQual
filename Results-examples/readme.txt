@@ -1,1 +1,1 @@
-See the Data-examples folder for corresponding data used in these examples.
+See the Data-examples folder for data used in these examples.
