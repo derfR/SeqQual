@@ -35,12 +35,12 @@ Brousseau L, Tinaut A, Duret C, Lang T, Garnier-Gere P, Scotti I (2014) High-thr
 
 ## Contacts ##
 
-Pauline Garnier-Géré pauline.garnier-gere@inra.fr <A HREF="https://scholar.google.com/citations?user=O_652X4AAAAJ&hl=en">(Google Scholar site)</A> <br />
+Pauline Garnier-Géré pauline.garnier-gere@inra.fr <A HREF="https://scholar.google.com/citations?user=O_652X4AAAAJ&hl=en"> (Google Scholar site)</A> <br />
 Tiange Lang langtiange@jnu.edu.cn, langtiange@xtbg.org.cn
 
 ## Links ##
-Arlequin   <A HREF="http://cmpg.unibe.ch/software/arlequin35/">(http://cmpg.unibe.ch/software/arlequin35/) </A>  <br />
-DNAsp   <A HREF="http://www.ub.edu/dnasp/>"(http://www.ub.edu/dnasp/) </A> <br />
-Bioperl    <A HREF="http://bioperl.org/"(http://bioperl.org/) </A> <br />
-phred/phrap/consed <A HREF="http://www.phrap.org/consed/consed.html#howToGet"(phred/phrap/consed) </A> <br />
-polyphred  <A HREF="http://droog.gs.washington.edu/polyphred/"(http://droog.gs.washington.edu/polyphred/) </A> <br />
+Arlequin   <A HREF="http://cmpg.unibe.ch/software/arlequin35/">(http://cmpg.unibe.ch/software/arlequin35/)</A>  <br />
+DNAsp   <A HREF="http://www.ub.edu/dnasp/>" (http://www.ub.edu/dnasp/)</A> <br />
+Bioperl    <A HREF="http://bioperl.org/" (http://bioperl.org/)</A> <br />
+phred/phrap/consed <A HREF="http://www.phrap.org/consed/consed.html#howToGet"(phred/phrap/consed)</A> <br />
+polyphred  <A HREF="http://droog.gs.washington.edu/polyphred/"(http://droog.gs.washington.edu/polyphred/)</A>
