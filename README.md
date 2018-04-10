@@ -2,7 +2,7 @@
 SeqQual
  is a suite of <b>Perl/Bioperl scripts</b> with the general aim of <b>integrating quality</b> at the nucleotide level and <b>prepare fasta alignment files</b> for further population genetic analyses. It also includes scripts for post-processing batches of fasta alignment files and computes some summary statistics for polymorphisms.
 
-SeqQual is divided into 3 groups of scripts depending on input files and tasks (see the <A HREF= "SeqQual_pdf/SeqQual-Graphical-Overview-Website.pdf"> Graphical-overview</A> and <a href="#help_documents">HELP documents</a> ):
+SeqQual is divided into 3 groups of scripts depending on input files and tasks (see the <A HREF= "SeqQual-Graphical-Overview-Website.pdf"> Graphical-overview</A> and <a href="#help_documents">HELP documents</a> ):
 
 1) Scripts dealing with <b>Ab1/Abd Chromatogram sequence data</b> from ABI sequencers for which very few automatic tools were/are available. These scripts helped to validate sequence data in a previous resequencing project by typically reducing the necessary time by a factor of 50 to 100. They migth still be useful for re-analyses or rare validation projects with this type of data. Input files are individual diploid or haploid <b>.ab1/. abd/.scf sequence files</b>, with or without corresponding .poly or .phd files. The main tasks consist in aligning sequences, and masking nucleotides below a user-defined quality threshold while identifying heterozygotes in diploid data. Output files are fasta alignments.
 
