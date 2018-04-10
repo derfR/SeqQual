@@ -33,10 +33,12 @@ El Mujtar VA, Gallo LA, Lang T, Garnier‐Géré P (2014) Development of genomic
 Brousseau L, Tinaut A, Duret C, Lang T, Garnier-Gere P, Scotti I (2014) High-throughput transcriptome sequencing and preliminary functional analysis in four Neotropical tree species. BMC genomics 15 (1): 238. <A HREF="http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-238">(Link to journal site)</A>
 <br />
 
-## Contacts ##
-
+## Contacts ## </br>
 Pauline Garnier-Géré pauline.garnier-gere@inra.fr (<A HREF="https://scholar.google.com/citations?user=O_652X4AAAAJ&hl=en"> Google Scholar site)</A> <br />
 Tiange Lang langtiange@jnu.edu.cn, langtiange@xtbg.org.cn
+
+## License ## </br>
+The content of this repository is licensed under <A HREF="https://choosealicense.com/licenses/gpl-3.0/">(GNU GPLv3)</A>
 
 ## Links ##
 Arlequin           http://cmpg.unibe.ch/software/arlequin35/  <br />
