@@ -21,7 +21,7 @@ The Perl language and <A HREF="http://bioperl.org/">BioPerl</A> modules are need
 
 More advices on installing and using the scripts can be found in the <A HREF= "SeqQual_pdf/"> User-Documentation.pdf</A> file. 
 
-<h2><A HREF="Source-download" >Download page</A> of SeqQual </h2>
+<h2><A HREF="Source-download" >Download page</A> </h2>
 
 <h2>References</h2>
 <i>Application to ab1/abd sequence data files and fasta alignments post-processing and analyzing:</i> <br />
