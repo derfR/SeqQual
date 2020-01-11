@@ -27,7 +27,8 @@ More advices on installing and using the scripts can be found in the <A HREF= "S
 <i>Application to ab1/abd sequence data files and fasta alignments post-processing and analyzing:</i> 
 
 
-> Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P. High-quality GBS-SNPs from genic regions highlight introgression patterns and a large heterogeneity in both diversity and differentiation among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>). (<i>in preparation</i>)
+> Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P. High-quality GBS-SNPs from genic regions highlight introgression patterns and a large heterogeneity in both diversity and differentiation among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>). 
+First published in BioRxiv with a new version of the manuscript available <A HREF="https://www.biorxiv.org/content/10.1101/388447v2"> here</A>:
 
 <i>Examples of SeqQual applications to larger *.ace assembly and fasta alignment files:</i> 
 
@@ -37,8 +38,8 @@ More advices on installing and using the scripts can be found in the <A HREF= "S
 
 
 ## Contacts </br>
-Pauline Garnier-Géré pauline.garnier-gere@inra.fr (<A HREF="https://scholar.google.com/citations?user=O_652X4AAAAJ&hl=en"> Google Scholar site)</A> <br />
-Tiange Lang langtiange@jnu.edu.cn, langtiange@xtbg.org.cn
+Pauline Garnier-Géré pauline.garnier-gere@inrae.fr (<A HREF="https://scholar.google.com/citations?user=O_652X4AAAAJ&hl=en"> Google Scholar site)</A> <br />
+Tiange Lang langtiange@jnu.edu.cn
 
 ## License </br>
 The content of this repository is licensed under <A HREF="https://choosealicense.com/licenses/gpl-3.0/">(GNU GPLv3)</A>
