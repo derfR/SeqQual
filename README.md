@@ -24,12 +24,12 @@ More advices on installing and using the scripts can be found in the <A HREF= "S
 <h2><A HREF="Source-download" >Download page</A> </h2>
 
 <h2>References</h2>
-<i>Application to ab1/abd sequence data files and fasta alignments post-processing and analyzing:</i> 
-
+<i>Application to ab1/abd sequence data files and fasta alignments post-processing and analyzing:
+</i> 
 
 > Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P. High-quality GBS-SNPs from genic regions highlight introgression patterns and a large heterogeneity in both diversity and differentiation among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>). 
 
-First published in BioRxiv with a new version of the manuscript available <A HREF="https://www.biorxiv.org/content/10.1101/388447v2"> here</A>:
+First published in BioRxiv with a new version of the manuscript available <A HREF="https://www.biorxiv.org/content/10.1101/388447v2"> here</A>
 
 <i>Examples of SeqQual applications to larger *.ace assembly and fasta alignment files:</i> 
 
