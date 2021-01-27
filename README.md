@@ -9,6 +9,11 @@ SeqQual is divided into 3 groups of scripts depending on input files and tasks (
 2) Scripts useful for <b>medium throughput sequence data</b> projects (such as Genotype-By-Sequencing (GBS) projects or Next-Generation Sequencing data from 454 or Illumina Biosystems) corresponding to 1 to a few tens of thousands alignments (test done with alignments of size up to 15 kb). Input files are <b>.ace assembly files</b> with or without .phdball or .qual files. The main tasks consist, in each contig, in masking nucleotides below a user-defined quality threshold and producing batches of fasta alignments for further post-treatment.
 
 3) Scripts dealing with reasonable amounts of <b>fasta alignment files</b> (test performed with up to 50000, of ~1 kb average size) from low to high throughput sequencing projects and that need further post-processing and analyses in batch. Possible tasks include data filtering, various masking steps, data formatting, summary statistics computing across SNPs (for N or 2N data). Output files can be fasta alignments, data in different formats (e.g. <A HREF="http://cmpg.unibe.ch/software/arlequin35/">Arlequin</A> or <A HREF="http://www.ub.edu/dnasp/">DNAsp</A> input files), or result files on SNP statistics.
+
+4) Perl scripts for processing raw reads from Next-Generation Sequencing technology. For example, Lang et al. 2018 processed fastQ files 
+
+
+
 <br />
 
 <h2 id="help_documents">HELP documents</h2>
