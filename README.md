@@ -10,9 +10,7 @@ SeqQual is divided into 3 groups of scripts depending on input files and tasks (
 
 3) Scripts dealing with reasonable amounts of <b>fasta alignment files</b> (test performed with up to 50000, of ~1 kb average size) from low to high throughput sequencing projects and that need further post-processing and analyses in batch. Possible tasks include data filtering, various masking steps, data formatting, summary statistics computing across SNPs (for N or 2N data). Output files can be fasta alignments, data in different formats (e.g. <A HREF="http://cmpg.unibe.ch/software/arlequin35/">Arlequin</A> or <A HREF="http://www.ub.edu/dnasp/">DNAsp</A> input files), or result files on SNP statistics.
 
-4) Perl scripts for processing raw reads from Next-Generation Sequencing technology. For example, Lang et al. 2018 processed fastQ files 
-
-
+4) Perl scripts for processing raw reads from Next-Generation Sequencing technology. For example, Lang <i>et al.</i> 2018 processed fastq files for quality control and filtering of reads. This code has been compiled in the fastq.phd.split.and.filter.pl
 
 <br />
 
@@ -41,6 +39,10 @@ First published in BioRxiv, the last version of the manuscript has been peer-rev
 > El Mujtar VA, Gallo LA, Lang T, Garnier‐Géré P (2014) Development of genomic resources for Nothofagus species using next‐generation sequencing data. Molecular Ecology Resources 14(6) : 1281–1295. <A HREF="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12276">(Link to journal site)</A>
 
 > Brousseau L, Tinaut A, Duret C, Lang T, Garnier-Gere P, Scotti I (2014) High-throughput transcriptome sequencing and preliminary functional analysis in four Neotropical tree species. BMC genomics 15 (1): 238. <A HREF="http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-238">(Link to journal site)</A>
+
+<i>Application to fastq sequence data files (here from Hiseq2000 illumina technology)</i>
+
+>Zhang X, Hu Y, Liu M, Lang T (2018) Optimization of Assembly Pipeline may Improve the Sequence of the Chloroplast Genome in <i>Quercus spinosa</i>. Scientific Reports, 8, 8906.
 
 
 ## Contacts </br>
